@@ -23,7 +23,7 @@ Developed during Next Level Week #2.
 
 <br />
 
-<h3>Dependencies</h3>
+<h2>Dependencies</h2>
 
 - [Express](https://expressjs.com/ "Express")
 - [KnexJS](http://knexjs.org/ "KnexJS")
