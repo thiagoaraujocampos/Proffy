@@ -4,8 +4,10 @@
 
 <p align="center">
 <img src="web/src/assets/images/landing.svg" alt="proffy" width="50%" />
-  
-Application created with ReactJS, React Native and NodeJs to connect teachers and students. Developed during Next Level Week #2.
+</p>
+<p align="center">
+Application created with ReactJS, React Native and NodeJs to connect teachers and students.<br />
+Developed during Next Level Week #2.
 </p>
 
 <br />
